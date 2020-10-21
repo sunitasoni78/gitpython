@@ -1,1 +1,1 @@
-print("shri RAM")
+print("shri RAM","jai ram jai jai ram")
