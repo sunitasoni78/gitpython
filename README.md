@@ -1,3 +1,3 @@
 # gitpython
 print("sunita has got a wonderful job ")
-print("om tare tuttare ture soha")
+print("OM tare tuttare ture soha")
